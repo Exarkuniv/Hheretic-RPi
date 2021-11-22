@@ -9,5 +9,5 @@ There is a little glitches from what i see when the demo plays. i dont know if t
 
 
 ```
-wget https://raw.githubusercontent.com/Exarkuniv/Dave-Gnukem-RPI/Master/gnukem.sh -P $HOME/RetroPie-Setup/scriptmodules/ports/
+wget https://raw.githubusercontent.com/Exarkuniv/Hheretic-RPi/Master/hheretic.sh -P $HOME/RetroPie-Setup/scriptmodules/ports/
 ```
